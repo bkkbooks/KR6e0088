@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0088/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經明法品內立三寶章
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1874.xml
+    old_id: T45n1874
+hash: sha256:5e05ee0039a4d78d98117a3096f19d4a255be479a3b3488d4351015286a26af1
